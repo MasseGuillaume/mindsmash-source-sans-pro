@@ -12,10 +12,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-ExtraLight'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-ExtraLight.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-ExtraLight.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-ExtraLight.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-ExtraLight.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-ExtraLight.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-ExtraLight.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-ExtraLight.ttf') format('truetype');
 }
 
 @font-face{
@@ -25,10 +25,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-ExtraLightIt'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-ExtraLightIt.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-ExtraLightIt.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-ExtraLightIt.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-ExtraLightIt.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-ExtraLightIt.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-ExtraLightIt.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-ExtraLightIt.ttf') format('truetype');
 }
 
 @font-face{
@@ -38,10 +38,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-Light'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-Light.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-Light.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-Light.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-Light.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-Light.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-Light.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-Light.ttf') format('truetype');
 }
 
 @font-face{
@@ -51,10 +51,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-LightIt'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-LightIt.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-LightIt.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-LightIt.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-LightIt.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-LightIt.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-LightIt.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-LightIt.ttf') format('truetype');
 }
 
 @font-face{
@@ -64,10 +64,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-Regular'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-Regular.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-Regular.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-Regular.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-Regular.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-Regular.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-Regular.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-Regular.ttf') format('truetype');
 }
 
 @font-face{
@@ -77,10 +77,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-It'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-It.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-It.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-It.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-It.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-It.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-It.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-It.ttf') format('truetype');
 }
 
 @font-face{
@@ -90,10 +90,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-Semibold'),
          local('Source Sans Pro Semibold'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-Semibold.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-Semibold.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-Semibold.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-Semibold.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-Semibold.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-Semibold.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-Semibold.ttf') format('truetype');
 }
 
 @font-face{
@@ -103,10 +103,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-SemiboldIt'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-SemiboldIt.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-SemiboldIt.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-SemiboldIt.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-SemiboldIt.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-SemiboldIt.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-SemiboldIt.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-SemiboldIt.ttf') format('truetype');
 }
 
 @font-face{
@@ -116,10 +116,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-Bold'),
          local('Source Sans Pro Bold'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-Bold.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-Bold.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-Bold.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-Bold.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-Bold.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-Bold.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-Bold.ttf') format('truetype');
 }
 
 @font-face{
@@ -129,10 +129,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-BoldIt'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-BoldIt.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-BoldIt.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-BoldIt.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-BoldIt.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-BoldIt.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-BoldIt.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-BoldIt.ttf') format('truetype');
 }
 
 @font-face{
@@ -142,10 +142,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-Black'),
          local('Source Sans Pro Black'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-Black.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-Black.otf.woff') format('woff'),
-         url('#{$SourceSansProPath}/OTF/SourceSansPro-Black.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-Black.ttf') format('truetype');
+         url('#{$SourceSansProPath}/eot/SourceSansPro-Black.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-Black.woff') format('woff'),
+         url('#{$SourceSansProPath}/otf/SourceSansPro-Black.otf') format('opentype'),
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-Black.ttf') format('truetype');
 }
 
 @font-face{
@@ -155,10 +155,10 @@ $SourceSansProPath: "." !default;
     font-stretch: normal;
     src: local('SourceSansPro-BlackIt'),
          local('Source Sans Pro'),
-         url('#{$SourceSansProPath}/EOT/SourceSansPro-BlackIt.eot') format('embedded-opentype'),
-         url('#{$SourceSansProPath}/WOFF/OTF/SourceSansPro-BlackIt.otf.woff') format('woff'),
+         url('#{$SourceSansProPath}/eot/SourceSansPro-BlackIt.eot') format('embedded-opentype'),
+         url('#{$SourceSansProPath}/woff/SourceSansPro-BlackIt.woff') format('woff'),
          url('#{$SourceSansProPath}/OTF/SourceSansPro-BlackIt.otf') format('opentype'),
-         url('#{$SourceSansProPath}/TTF/SourceSansPro-BlackIt.ttf') format('truetype');
+         url('#{$SourceSansProPath}/ttf/SourceSansPro-BlackIt.ttf') format('truetype');
 }
 
 // Source Sans Pro @font-face kit ends here
