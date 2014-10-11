@@ -42,11 +42,11 @@
   "homepage": "https://github.com/adobe/source-sans-pro",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryzy/bower-font-source-sans-pro"
+    "url": "https://github.com/Arelav/font-source-sans-pro"
   },
-  "keywords": ["font", "SourceSans", "SourceSansPro"],
+  "keywords": ["font", "SourceSans", "SourceSansPro", "sass", "scss", "gulp"],
   "authors": [
-    { "name": "Marcin ryży Ryżycki" }
+    { "name": "Marcin ryży Ryżycki, Valery Kharshats" }
   ],
   "description": "Source Sans Pro font family by Adobe",
   "license": "SIL OFL 1.1",
