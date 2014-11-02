@@ -11,20 +11,20 @@
                                 (600, normal, SourceSansPro-Semibold),
                                 (600, italic, SourceSansPro-SemiboldIt),
                                 (700, normal, SourceSansPro-Bold),
-                                (700, italic, SourceSansPro-BoldIt), {
+                                (700, italic, SourceSansPro-BoldIt),
                                 (900, normal, SourceSansPro-Black),
-                                (900, italic, SourceSansPro-BlackIt), {
+                                (900, italic, SourceSansPro-BlackIt) {
   @font-face{
       font-family: 'Source Sans Pro';
-      font-weight: $weight;
-      font-style: $style;
+      font-weight: #{$weight};
+      font-style: #{$style};
       font-stretch: normal;
       src: local('$font'),
            local('Source Sans Pro'),
-           font-url('eot/$font.eot') format('embedded-opentype'),
-           font-url('woff/$font.woff') format('woff'),
-           font-url('otf/$font.otf') format('opentype'),
-           font-url('ttf/$font.ttf') format('truetype');
+           font-url('eot/#{$font}.eot') format('embedded-opentype'),
+           font-url('woff/#{$font}.woff') format('woff'),
+           font-url('otf/#{$font}.otf') format('opentype'),
+           font-url('ttf/#{$font}.ttf') format('truetype');
   }
 }
 
