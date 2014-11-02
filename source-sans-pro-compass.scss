@@ -2,6 +2,8 @@
 // Source Sans Pro @font-face kit
 //
 
+$SourceSansProPath: "." !default;
+
 @each $weight, $style, $font in (200, normal, SourceSansPro-ExtraLight),
                                 (200, italic, SourceSansPro-ExtraLightIt),
                                 (300, normal, SourceSansPro-Light),
@@ -19,12 +21,12 @@
       font-weight: #{$weight};
       font-style: #{$style};
       font-stretch: normal;
-      src: local('$font'),
+      src: local('#{$font}'),
            local('Source Sans Pro'),
-           font-url('eot/#{$font}.eot') format('embedded-opentype'),
-           font-url('woff/#{$font}.woff') format('woff'),
-           font-url('otf/#{$font}.otf') format('opentype'),
-           font-url('ttf/#{$font}.ttf') format('truetype');
+           font-url('#{$SourceSansProPath}/eot/#{$font}.eot') format('embedded-opentype'),
+           font-url('#{$SourceSansProPath}/woff/#{$font}.woff') format('woff'),
+           font-url('#{$SourceSansProPath}/otf/#{$font}.otf') format('opentype'),
+           font-url('#{$SourceSansProPath}/ttf/#{$font}.ttf') format('truetype');
   }
 }
 
