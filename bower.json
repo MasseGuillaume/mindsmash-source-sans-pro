@@ -1,5 +1,5 @@
 {
-  "name": "font-source-sans-pro",
+  "name": "font-source-sans-pro-compass",
   "version": "0.1.0",
   "main": [
     "eot/SourceSansPro-Black.eot",
@@ -42,7 +42,7 @@
   "homepage": "https://github.com/adobe/source-sans-pro",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arelav/font-source-sans-pro"
+    "url": "https://github.com/philiptzou/font-source-sans-pro"
   },
   "keywords": ["font", "SourceSans", "SourceSansPro", "sass", "scss", "gulp"],
   "authors": [

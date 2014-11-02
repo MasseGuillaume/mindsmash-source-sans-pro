@@ -21,7 +21,7 @@ $SourceSansProPath: '/path/to/directory/with/font/files';
 
 Then simply import the file:  
 ```
-@import 'font-source-sans-pro/source-sans-pro';
+@import 'font-source-sans-pro-compass/source-sans-pro-compass';
 ```
 
 ## Further information
