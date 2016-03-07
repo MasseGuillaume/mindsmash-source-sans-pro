@@ -6,10 +6,10 @@ This package is based on Paul D. Hunt work. Compiled web fonts are sourced from 
 
 ## Usage
 
-Search [Bower.io]() for `font-source-sans-pro`.  
+Search [Bower.io]() for `mindsmash-source-sans-pro`.  
 Simply add to your bower.json line:  
 ```
-   "font-source-sans-pro": "<version>",
+   "mindsmash-source-sans-pro": "<version>",
 ```
 
 #### Usage with Sass
