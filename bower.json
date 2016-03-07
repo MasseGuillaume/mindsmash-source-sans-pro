@@ -2,6 +2,7 @@
   "name": "mindsmash-source-sans-pro",
   "version": "1.0.0",
   "main": [
+    "source-sans-pro.css",
     "fonts/SourceSansPro-Black.eot",
     "fonts/SourceSansPro-BlackIt.eot",
     "fonts/SourceSansPro-Bold.eot",
