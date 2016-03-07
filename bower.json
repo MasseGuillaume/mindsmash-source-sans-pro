@@ -1,6 +1,6 @@
 {
   "name": "mindsmash-source-sans-pro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": [
     "source-sans-pro.css",
     "fonts/SourceSansPro-Black.eot",
@@ -45,11 +45,22 @@
     "type": "git",
     "url": "https://github.com/mindsmash/mindsmash-source-sans-pro"
   },
-  "keywords": ["font", "SourceSans", "SourceSansPro", "sass", "scss", "gulp"],
+  "keywords": [
+    "font",
+    "SourceSans",
+    "SourceSansPro",
+    "sass",
+    "scss",
+    "gulp"
+  ],
   "authors": [
-    { "name": "Marcin ryży Ryżycki, Valery Kharshats, Tim Meißner" }
+    {
+      "name": "Marcin ryży Ryżycki, Valery Kharshats, Tim Meißner"
+    }
   ],
   "description": "Source Sans Pro font family by Adobe",
   "license": "SIL OFL 1.1",
-  "ignore": ["**/.*"]
+  "ignore": [
+    "**/.*"
+  ]
 }
