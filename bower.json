@@ -1,6 +1,6 @@
 {
   "name": "mindsmash-source-sans-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": [
     "source-sans-pro.css",
     "fonts/SourceSansPro-Black.eot",
