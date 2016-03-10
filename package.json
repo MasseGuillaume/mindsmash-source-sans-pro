@@ -1,0 +1,32 @@
+{
+    "name": "mindsmash-source-sans-pro",
+    "version": "1.0.5",
+    "main": "gulpfile.js",
+    "scripts": {
+        "build": "npm install && gulp"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mindsmash/mindsmash-source-sans-pro.git"
+    },
+    "contributors": [
+        {
+            "name": "mindsmash GmbH",
+            "email": "mail@mindsmash.com",
+            "url": "http://mindsmash.com"
+    }
+  ],
+    "homepage": "http://www.mindsmash.com",
+    "devDependencies": {
+        "bootstrap-sass": "^3.3.5",
+        "bower": "^1.6.5",
+        "del": "^2.0.2",
+        "gulp": "^3.9.0",
+        "gulp-clean": "^0.3.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^2.1.0",
+        "gulp-scss-lint": "^0.3.8",
+        "gulp-sequence": "^0.4.1",
+        "gulp-util": "^3.0.7"
+    }
+}

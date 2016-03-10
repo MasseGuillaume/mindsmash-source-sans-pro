@@ -24,6 +24,16 @@ Then simply import the file:
 @import 'mindsmash-source-sans-pro/source-sans-pro';
 ```
 
+## Development
+
+Use `npm run build` to build the css versions of the scss. 
+
 ## Further information
 
 See [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro) repository.
+
+## Contributors
+
+Talk to Tim Meissner (tim.meissner@mindsmash.com) and Daniel Busch (daniel.busch@mindsmash.com).
+
+Special thanks to [adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro.
